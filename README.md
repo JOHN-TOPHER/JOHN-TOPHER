@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A ASPRING DEVELOPER
 -------------------
 
-A Person who want's to become a Professional
+A PERSON WHO ERGE TO BECOME GOOD IN EVERYTHING
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [johnchrostopher007@gmail.com](mailto:johnchrostopher007@gmail.com)
