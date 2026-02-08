@@ -29,26 +29,36 @@ src="https://img.shields.io/github/followers/JOHN-TOPHER?logo=github&style=for-t
 src="https://img.shields.io/twitter/follow/Christophe72006?logo=twitter&style=for-the-badge&color=84cc16&labelColor=0f172a"
 /></a><a href="https://www.twitch.tv/tophetot" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/tophetot?logo=twitchsx&style=for-the-badge&color=84cc16&labelColor=0f172a&label=TWITCH+STATUS" /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/JOHN-TOPHER"><img src="https://github-readme-stats.vercel.app/api?username=JOHN-TOPHER&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="JOHN-TOPHER's GitHub stats" /></a>
 
-<a href="http://www.github.com/JOHN-TOPHER"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JOHN-TOPHER&stroke=a855f7&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<a href="http://www.github.com/JOHN-TOPHER"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JOHN-TOPHER&stroke=a855f7&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a><img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV4c2o4eG5jZTdrenRycWlnbnZueGg4cnhmNDFhYnV2b2xhanF0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif"  />
 
-<a href="https://github.com/JOHN-TOPHER" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOHN-TOPHER&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/JOHN-TOPHER/TCI-WEBSITE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHN-TOPHER&repo=TCI-WEBSITE&title_color=ec4899&text_color=a855f7&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/JOHN-TOPHER/MY-PORTFOLIO" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHN-TOPHER&repo=MY-PORTFOLIO&title_color=ec4899&text_color=a855f7&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/JOHN-TOPHER/COMPROG-GRADES-w-GUI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHN-TOPHER&repo=COMPROG-GRADES-w-GUI&title_color=ec4899&text_color=a855f7&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/JOHN-TOPHER/COMPROG-SYSNAX_SPRINT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHN-TOPHER&repo=COMPROG-SYSNAX_SPRINT&title_color=ec4899&text_color=a855f7&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+###
 
 
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+<hr>
 
 
-<img src="https://raw.githubusercontent.com/JOHN-TOPHER/JOHN-TOPHER/output/snake.svg" alt="Snake animation" />
+
+
+
+
+          
