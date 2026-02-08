@@ -51,12 +51,4 @@ src="https://img.shields.io/twitch/status/tophetot?logo=twitchsx&style=for-the-b
 
 
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ITZ..TOPHE">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ITZ..TOPHE&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-
+<img src="https://raw.githubusercontent.com/JOHN-TOPHER/JOHN-TOPHER/output/snake.svg" alt="Snake animation" />
