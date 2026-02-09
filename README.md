@@ -5,10 +5,8 @@ Who Urge to become good at everything
 -------------------------------------
 
 I am currently BSIT student at Gordon College, who wants to become good at everything
-
-and to know about tech things, found the developing as a hobby, has specialties at Electronics like ARDUINOS,
-
-easy to learn and "LAZT BUT EASY TO MOTIVATE".
+and to know about tech things, found the developing as a hobby, has specialties at 
+Electronics like ARDUINOS, easy to learn and "LAZT BUT EASY TO MOTIVATE".
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [MY PORTFOLIO](http://john-topher.github.io/MY-PORTFOLIO/)
