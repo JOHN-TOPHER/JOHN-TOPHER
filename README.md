@@ -9,7 +9,7 @@ and to know about tech things, found the developing as a hobby, has specialties 
 Electronics like ARDUINOS, easy to learn and "LAZT BUT EASY TO MOTIVATE".
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [MY PORTFOLIO]([[http://john-topher.github.io/MY-PORTFOLIO/](https://chritopher.netlify.app/)](https://chritopher.netlify.app/))
+* 🖥️  See my portfolio at [MY PORTFOLIO](https://chritopher.netlify.app/)
 * ✉️  You can contact me at [johnchrostopher007@gmail.com](mailto:johnchrostopher007@gmail.com)
 * 🧠  I'm currently learning JAVA, PHP, MYSQL, PYTHON, ARDUINO and ESP32 PROGRAMMING
 * 👥  I'm looking to collaborate on IOT, ARDUINO, ESP32, ELECTRONICS, WEB DEV
