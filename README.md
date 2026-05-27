@@ -13,7 +13,7 @@ Electronics like ARDUINOS, easy to learn and "LAZT BUT EASY TO MOTIVATE".
 * ✉️  You can contact me at [johnchrostopher007@gmail.com](mailto:johnchrostopher007@gmail.com)
 * 🧠  I'm currently learning JAVA, PHP, MYSQL, PYTHON, ARDUINO and ESP32 PROGRAMMING
 * 👥  I'm looking to collaborate on IOT, ARDUINO, ESP32, ELECTRONICS, WEB DEV
-* 💬  Ask me about I am SPIDERMAN
+* 💬  Ask me about Junior IThings
 
 <hr>
 
