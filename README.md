@@ -9,7 +9,7 @@ and to know about tech things, found the developing as a hobby, has specialties 
 Electronics like ARDUINOS, easy to learn and "LAZT BUT EASY TO MOTIVATE".
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [MY PORTFOLIO](christophepersonal-port.vercel.app)
+* 🖥️  See my portfolio at [MY PORTFOLIO]([christophepersonal-port.vercel.app](https://christophepersonal-port.vercel.app/))
 * ✉️  You can contact me at [johnchrostopher007@gmail.com](mailto:johnchrostopher007@gmail.com)
 * 🧠  I'm currently learning JAVA, PHP, MYSQL, PYTHON, ARDUINO and ESP32 PROGRAMMING
 * 👥  I'm looking to collaborate on IOT, ARDUINO, ESP32, ELECTRONICS, WEB DEV
