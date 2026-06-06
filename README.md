@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Who Urge to become good at everything
 -------------------------------------
 
-I am currently BSIT student at Gordon College, who wants to become good at everything
-and to know about tech things, found the developing as a hobby, has specialties at 
-Electronics like ARDUINOS, easy to learn and "LAZT BUT EASY TO MOTIVATE".
+I'm a 2nd Year BSIT student passionate about technology, innovation, and creativity. Though naturally laid-back, I'm easily motivated by curiosity and the excitement of learning something new. I may not be the best at everything I try, but I believe that taking the first step and continuing to learn is what makes things happen. Every experience, challenge, and project is an opportunity to grow and discover something new.
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [MY PORTFOLIO](https://christophepersonal-port.vercel.app/)
@@ -22,15 +20,12 @@ Electronics like ARDUINOS, easy to learn and "LAZT BUT EASY TO MOTIVATE".
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="45" /></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="45" /></a>
 <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="45" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" /></a>
 <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" /></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="45" /></a>
 <a href="https://www.sublimetext.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="45" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" /></a>
 <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" /></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45" /></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="45" /></a>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" /></a>
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45" /></a>
 <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="45" /></a>
