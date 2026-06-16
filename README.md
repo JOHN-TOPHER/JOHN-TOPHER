@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Who Urge to become good at everything
 -------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=89&pause=1000&color=6300C6&background=FF1BEB00&width=1200&height=129&lines=2ND+YEAR+BSIT+STUDENT;DEFTONES+LISTENER;SPIDERMAN+FAN;LATE+NIGHT+YEARNER;MANGA+ARTIST;GRAPHIC+DESIGNER)](https://git.io/typing-svg)
+-------------------------------------
 
 I'm a 2nd Year BSIT student passionate about technology, innovation, and creativity. Though naturally laid-back, I'm easily motivated by curiosity and the excitement of learning something new. I may not be the best at everything I try, but I believe that taking the first step and continuing to learn is what makes things happen. Every experience, challenge, and project is an opportunity to grow and discover something new.
 
@@ -50,11 +52,15 @@ src="https://img.shields.io/twitch/status/tophetot?logo=twitchsx&style=for-the-b
 <hr>
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JOHN-TOPHER"><img src="https://github-readme-stats.vercel.app/api?username=JOHN-TOPHER&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="JOHN-TOPHER's GitHub stats" /></a>
+![JOHN-TOPHER's Stats](https://github-readme-stats.vercel.app/api?username=JOHN-TOPHER&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![JOHN-TOPHER's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOHN-TOPHER&theme=midnight-purple&hide_border=true)
+![JOHN-TOPHER's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHN-TOPHER&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-<a href="http://www.github.com/JOHN-TOPHER"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JOHN-TOPHER&stroke=a855f7&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a><img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV4c2o4eG5jZTdrenRycWlnbnZueGg4cnhmNDFhYnV2b2xhanF0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif"  />
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV4c2o4eG5jZTdrenRycWlnbnZueGg4cnhmNDFhYnV2b2xhanF0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif"  />
 
 ###
+
+
 
 <hr>
 <picture>
