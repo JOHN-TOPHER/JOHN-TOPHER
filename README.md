@@ -1,4 +1,4 @@
-<img width="541" height="113" alt="image" src="https://github.com/user-attachments/assets/e229c8ad-cb59-46be-a645-566ab2db5c79" />Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is CHRISTOPHER DELA CRUZ
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is CHRISTOPHER DELA CRUZ
 ==============================================================================================================================================
 
 Who Urge to become good at everything
@@ -53,17 +53,11 @@ src="https://img.shields.io/twitch/status/tophetot?logo=twitchsx&style=for-the-b
 
 <div align="center">
 
-![JOHN-TOPHER's Stats](https://github-readme-stats.vercel.app/api?username=JOHN-TOPHER&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![JOHN-TOPHER's Stats](https://github-readme-stats.vercel.app/api?username=JOHN-TOPHER&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) ![JOHN-TOPHER's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOHN-TOPHER&theme=midnight-purple&hide_border=true)
 
-![JOHN-TOPHER's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOHN-TOPHER&theme=midnight-purple&hide_border=true)
-
-![JOHN-TOPHER's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHN-TOPHER&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-
+![JOHN-TOPHER's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHN-TOPHER&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)</div><div align="left">
+<img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV4c2o4eG5jZTdrenRycWlnbnZueGg4cnhmNDFhYnV2b2xhanF0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif"  />
 </div>
-
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV4c2o4eG5jZTdrenRycWlnbnZueGg4cnhmNDFhYnV2b2xhanF0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif"  />
-
-###
 
 
 
@@ -84,7 +78,10 @@ src="https://img.shields.io/twitch/status/tophetot?logo=twitchsx&style=for-the-b
 </picture>
 <hr>
 
+<img align="center" height="200" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"  />
 
+
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
 
 
