@@ -78,10 +78,9 @@ src="https://img.shields.io/twitch/status/tophetot?logo=twitchsx&style=for-the-b
 </picture>
 <hr>
 
-<img align="center" height="200" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"  />
 
 
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+
 
 <img align="center" height="400" width="999" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
