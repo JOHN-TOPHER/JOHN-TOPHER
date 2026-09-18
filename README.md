@@ -53,9 +53,9 @@ src="https://img.shields.io/twitch/status/tophetot?logo=twitchsx&style=for-the-b
 
 <div align="center">
 
-![JOHN-TOPHER's Stats](https://github-readme-stats.vercel.app/api?username=JOHN-TOPHER&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) ![JOHN-TOPHER's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOHN-TOPHER&theme=midnight-purple&hide_border=true)
+![JOHN-TOPHER's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOHN-TOPHER&theme=midnight-purple&hide_border=true)
 
-![JOHN-TOPHER's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHN-TOPHER&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)</div><div align="left">
+</div><div align="left">
 <img align="center" height="200"  width="999" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV4c2o4eG5jZTdrenRycWlnbnZueGg4cnhmNDFhYnV2b2xhanF0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif"  />
 </div>
 
