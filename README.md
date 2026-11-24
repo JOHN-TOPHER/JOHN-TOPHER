@@ -9,7 +9,7 @@ Who Urge to become good at everything
 I'm a 2nd Year BSIT student passionate about technology, innovation, and creativity. Though naturally laid-back, I'm easily motivated by curiosity and the excitement of learning something new. I may not be the best at everything I try, but I believe that taking the first step and continuing to learn is what makes things happen. Every experience, challenge, and project is an opportunity to grow and discover something new.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [MY PORTFOLIO](https://christophepersonal-port.vercel.app/)
+* 🖥️  See my portfolio at [MY PORTFOLIO]( https://topher-portfolio.vercel.app)
 * ✉️  You can contact me at [johnchrostopher007@gmail.com](mailto:johnchrostopher007@gmail.com)
 * 🧠  I'm currently learning JAVA, PHP, MYSQL, PYTHON, ARDUINO and ESP32 PROGRAMMING
 * 👥  I'm looking to collaborate on IOT, ARDUINO, ESP32, ELECTRONICS, WEB DEV
